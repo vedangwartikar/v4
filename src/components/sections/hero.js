@@ -59,8 +59,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello World! My name is</h1>;
-  const two = <h2 className="big-heading">Vedang Warikar.</h2>;
-  const three = <h3 className="big-heading">I love to automate stuff.</h3>;
+  const two = <h2 className="big-heading">Vedang Wartikar.</h2>;
+  const three = <h3 className="big-heading">Declare variable, not war</h3>;
   const four = (
     <>
       <p>
