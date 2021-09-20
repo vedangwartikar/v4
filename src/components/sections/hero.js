@@ -65,11 +65,11 @@ const Hero = () => {
     <>
       <p>
         I’m a Software Engineer from India. Currently, I’m building streamline products
-        at{' '} to make open-source softwares more accessible to the community. My work revolves around Linux and containerization technologies.
+        at{' '}
         <a href="https://persistent.com/" target="_blank" rel="noreferrer">
           Persistent
         </a>
-        .
+         to make open-source softwares more accessible to the community. My work usually revolves around Linux and containerization technologies.
       </p>
     </>
   );
