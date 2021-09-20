@@ -69,7 +69,7 @@ const Hero = () => {
         <a href="https://persistent.com/" target="_blank" rel="noreferrer">
           Persistent
         </a>
-         to make open-source softwares more accessible to the community. My work usually revolves around Linux and containerization technologies.
+        &nbsp;to make open-source softwares more accessible to the community. My work usually revolves around Linux and containerization technologies.
       </p>
     </>
   );
@@ -79,7 +79,7 @@ const Hero = () => {
       href="https://linkedin.vedang.dev"
       target="_blank"
       rel="noreferrer">
-      Connect with me
+      Connect with me on LinkedIn
     </a>
   );
 
